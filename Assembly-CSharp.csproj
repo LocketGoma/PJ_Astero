@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\AntiVirus.cs" />
      <Compile Include="Assets\Scripts\FireWall.cs" />
+     <Compile Include="Assets\Scripts\MapSetting.cs" />
      <Compile Include="Assets\Scripts\Restoration.cs" />
      <Compile Include="Assets\Scripts\Suppressor.cs" />
  <Reference Include="UnityEditor.StandardEvents">
